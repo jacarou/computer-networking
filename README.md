@@ -19,7 +19,7 @@ This repository contains the submissions for the **Computer Networking** worksho
 
 Each workshop is organized in a separate folder, containing the files related to its development. The structure is as follows:
 
-1. **Requirements Description**: PDF file containing the guidelines for the workshop.
+1. **Requirements Description**: Document in `.pdf` format containing the guidelines for the workshop.
 2. **Network Design**: Network diagram in `.pkt` format (Packet Tracer).
 3. **Workshop Report**: Document in `.pdf` format with the workshop's development, design explanation, and technical decisions.
 4. **Other Files**: Any other files that facilitate the understanding of the workshop.
